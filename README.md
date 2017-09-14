@@ -31,15 +31,17 @@ It can help you to imagine inserting certain inputs into your function and knowi
 
 Some problems may want you to solve your problem with constraints (e.g. Please use constant time to...). When the solution seems obvious to you, this step is unnecessary. However, if you're stuck, doing it the brute force method could help you unearth some inspiration in getting the ideal method for your problem! 
 
-## 4) Pseudocode
-
-Pseudocoding is EXTREMELY helpful with figuring out if your thought process is necessary. Given that you're familiar with your programming language's methods, pseudocoding can create a roadmap of sorts to see if your approach can bring you to the right solution. This part of the process should take a long time, since this is where all your thinking is happening. If done correctly, actually coding up your solution should take a matter of seconds!
-
-## 5) Whiteboarding
+## 4) Whiteboarding
 
 Whiteboarding is another great tool when problem solving. Putting out your thoughts onto a physical medium can help you flush out your thoughts, especially when you frame it in multiple different ways. Whiteboarding can be used for drawing out visualizations of your problem, pseudocoding, and even simulating your problem. 
 
 For example, you can simulate a recursion solution on the whiteboard by out the call stacks for each recursive call and then tracing it back to see how your function would behave (try it with factorial!).
+
+
+## 5) Pseudocode
+
+Pseudocoding is EXTREMELY helpful with figuring out if your thought process is necessary. Given that you're familiar with your programming language's methods, pseudocoding can create a roadmap of sorts to see if your approach can bring you to the right solution. This part of the process should take a long time, since this is where all your thinking is happening. If done correctly, actually coding up your solution should take a matter of seconds!
+
 
 ## 6) Logging your progress
 
